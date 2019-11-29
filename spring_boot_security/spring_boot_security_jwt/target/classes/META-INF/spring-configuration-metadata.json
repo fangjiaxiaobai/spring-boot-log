@@ -1,0 +1,24 @@
+{
+  "groups": [
+    {
+      "name": "fxb.url",
+      "type": "com.fxb.learn.spring_boot_security_jwt.properties.UrlConfig",
+      "sourceType": "com.fxb.learn.spring_boot_security_jwt.properties.UrlConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "fxb.url.anonymous-url",
+      "type": "java.util.List<java.lang.String>",
+      "description": "匿名访问的url",
+      "sourceType": "com.fxb.learn.spring_boot_security_jwt.properties.UrlConfig"
+    },
+    {
+      "name": "fxb.url.permit-all-url",
+      "type": "java.util.List<java.lang.String>",
+      "description": "都可访问的url",
+      "sourceType": "com.fxb.learn.spring_boot_security_jwt.properties.UrlConfig"
+    }
+  ],
+  "hints": []
+}

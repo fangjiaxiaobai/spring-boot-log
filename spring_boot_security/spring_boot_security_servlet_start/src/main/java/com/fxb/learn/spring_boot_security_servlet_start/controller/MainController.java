@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * 控制器
+ *
  * @author fangjiaxiaobao@gmail.com
  * @date 2019-11-27
  * @since 1.0.0
@@ -14,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class MainController {
 
     @GetMapping("/{name}")
-    public String hello(@PathVariable("name") String name){
+    public String hello(@PathVariable("name") String name) {
         return "hello " + name;
     }
 }
