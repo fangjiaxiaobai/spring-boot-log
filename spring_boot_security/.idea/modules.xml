@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_security.iml" filepath="$PROJECT_DIR$/spring_boot_security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_security_jwt/spring_boot_security_jwt.iml" filepath="$PROJECT_DIR$/spring_boot_security_jwt/spring_boot_security_jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_security_servlet_start/spring_boot_security_servlet_start.iml" filepath="$PROJECT_DIR$/spring_boot_security_servlet_start/spring_boot_security_servlet_start.iml" />
+    </modules>
+  </component>
+</project>
